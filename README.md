@@ -17,11 +17,6 @@ Handwritten-style font using Dancing Script
 
 Fully interactive: click the envelope or use the buttons to open/close.
 
-Screenshots 📸
-
-
-
-
 How to Use 🚀
 
 Clone the repository:
